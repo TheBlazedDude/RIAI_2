@@ -1,0 +1,13 @@
+{
+  "max_tokens": 5,
+  "pii_regex": [
+    "(?<!\\d)\\d{3}-\\d{2}-\\d{4}(?!\\d)"
+  ],
+  "content_filters": [
+    "hate",
+    "violence"
+  ],
+  "allowed_file_types": [
+    ".txt"
+  ]
+}

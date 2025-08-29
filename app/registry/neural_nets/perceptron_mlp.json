@@ -1,0 +1,5 @@
+{
+  "id": "perceptron_mlp",
+  "name": "Perceptron (MLP)",
+  "family": "feedforward"
+}

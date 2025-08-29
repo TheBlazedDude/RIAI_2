@@ -1,0 +1,20 @@
+{
+  "job_id": "evaluate_ca15b66a73",
+  "type": "evaluate",
+  "module_id": "chat-core",
+  "seed": 2025,
+  "created_at": "2025-08-28T19:38:19.631334+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-28T19:38:19.751023+02:00",
+  "result": {
+    "model_id": "chat_model_test_perceptron_mlp",
+    "seed": 2025,
+    "latency_ms": {
+      "p50": 1.104,
+      "p95": 1.389
+    },
+    "grounding_hit_rate": 0.99,
+    "module_id": "chat-core",
+    "status": "ok"
+  }
+}

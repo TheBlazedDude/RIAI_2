@@ -1,0 +1,5 @@
+{
+  "id": "cnn_generic",
+  "name": "CNN (Convolutional Neural Network)",
+  "family": "vision"
+}

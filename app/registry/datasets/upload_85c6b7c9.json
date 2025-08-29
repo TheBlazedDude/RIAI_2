@@ -1,0 +1,11 @@
+{
+  "id": "upload_85c6b7c9",
+  "name": "upload_85c6b7c9",
+  "files": [
+    {
+      "path": "app/artifacts/datasets/uploads/upload_85c6b7c9.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "capability": "chat"
+}

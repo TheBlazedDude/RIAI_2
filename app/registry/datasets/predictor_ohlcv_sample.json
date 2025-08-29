@@ -1,0 +1,10 @@
+{
+  "id": "predictor_ohlcv_sample",
+  "name": "Predictor OHLCV Sample",
+  "files": [
+    {
+      "path": "app/modules/predictor-finance/data/samples/ohlcv.csv",
+      "sha256": "d5b830bc1bd9e73fb6c9e24d5bb1fb473d0fe2fc860c4f40b97135f75f049f92"
+    }
+  ]
+}

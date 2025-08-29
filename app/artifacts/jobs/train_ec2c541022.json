@@ -1,0 +1,18 @@
+{
+  "job_id": "train_ec2c541022",
+  "type": "train",
+  "module_id": "chat-core",
+  "seed": 1337,
+  "created_at": "2025-08-29T16:00:11.384038+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T16:00:11.439479+02:00",
+  "result": {
+    "model_id": "chat_retrieval_1337",
+    "registry": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\registry\\models\\chat_retrieval_1337.json",
+    "lm": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\chat\\lm_ngram.json",
+    "bubble": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\bubble\\model.json",
+    "module_id": "chat-core",
+    "seed": 1337,
+    "status": "ok"
+  }
+}

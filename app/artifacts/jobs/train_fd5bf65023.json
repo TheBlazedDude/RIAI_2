@@ -1,0 +1,18 @@
+{
+  "job_id": "train_fd5bf65023",
+  "type": "train",
+  "module_id": "chat-core",
+  "seed": 777,
+  "created_at": "2025-08-29T15:30:58.185299+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T15:30:58.266455+02:00",
+  "result": {
+    "model_id": "chat_test_family_nlp_777",
+    "registry": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\registry\\models\\chat_test_family_nlp_777.json",
+    "lm": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\chat\\lm_ngram.json",
+    "bubble": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\bubble\\model.json",
+    "module_id": "chat-core",
+    "seed": 777,
+    "status": "ok"
+  }
+}

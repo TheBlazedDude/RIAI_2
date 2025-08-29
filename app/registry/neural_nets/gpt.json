@@ -1,0 +1,5 @@
+{
+  "id": "gpt",
+  "name": "GPT",
+  "family": "nlp_transformer"
+}

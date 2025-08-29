@@ -1,0 +1,5 @@
+{
+  "id": "bert",
+  "name": "BERT",
+  "family": "nlp_transformer"
+}

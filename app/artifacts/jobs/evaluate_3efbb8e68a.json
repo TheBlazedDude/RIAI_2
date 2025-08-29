@@ -1,0 +1,20 @@
+{
+  "job_id": "evaluate_3efbb8e68a",
+  "type": "evaluate",
+  "module_id": "predictor-finance",
+  "seed": 1337,
+  "created_at": "2025-08-29T14:19:56.805105+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T14:19:56.818399+02:00",
+  "result": {
+    "model_id": "predictor_ma_1337",
+    "seed": 1337,
+    "window": 5,
+    "mae": 1.966183,
+    "rmse": 2.177981,
+    "mape": 0.018763,
+    "n": 195,
+    "module_id": "predictor-finance",
+    "status": "ok"
+  }
+}

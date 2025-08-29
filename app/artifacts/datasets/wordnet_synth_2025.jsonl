@@ -1,0 +1,200 @@
+{"id": "wn_2025_0", "prompt": "What does ''hood' mean? (POS: noun)", "response": "''hood' relates to offsets [1, 0, 8641944] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_1", "prompt": "What does 'acetate' mean? (POS: noun)", "response": "'acetate' relates to offsets [2, 0, 14599806, 2675219] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_2", "prompt": "What does 'aeciospore' mean? (POS: noun)", "response": "'aeciospore' relates to offsets [1, 0, 13063666] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_3", "prompt": "What does 'alabamian' mean? (POS: noun)", "response": "'alabamian' relates to offsets [1, 1, 9740856] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_4", "prompt": "What does 'alpine_glacier' mean? (POS: noun)", "response": "'alpine_glacier' relates to offsets [1, 0, 9194227] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_5", "prompt": "What does 'anagrams' mean? (POS: noun)", "response": "'anagrams' relates to offsets [1, 0, 502030] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_6", "prompt": "What does 'antefix' mean? (POS: noun)", "response": "'antefix' relates to offsets [1, 0, 2715096] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_7", "prompt": "What does 'aqueous_humor' mean? (POS: noun)", "response": "'aqueous_humor' relates to offsets [1, 0, 5318263] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_8", "prompt": "What does 'artemisia' mean? (POS: noun)", "response": "'artemisia' relates to offsets [1, 0, 11928352] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_9", "prompt": "What does 'atabrine' mean? (POS: noun)", "response": "'atabrine' relates to offsets [1, 0, 4034641] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_10", "prompt": "What does 'autosomal_recessive_disease' mean? (POS: noun)", "response": "'autosomal_recessive_disease' relates to offsets [1, 0, 14162275] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_11", "prompt": "What does 'balldress' mean? (POS: noun)", "response": "'balldress' relates to offsets [1, 0, 2780704] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_12", "prompt": "What does 'basso_rilievo' mean? (POS: noun)", "response": "'basso_rilievo' relates to offsets [1, 0, 2803129] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_13", "prompt": "What does 'belief' mean? (POS: noun)", "response": "'belief' relates to offsets [2, 2, 5941423, 5916739] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_14", "prompt": "What does 'billionth' mean? (POS: noun)", "response": "'billionth' relates to offsets [2, 0, 13850019, 13739721] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_15", "prompt": "What does 'blazonry' mean? (POS: noun)", "response": "'blazonry' relates to offsets [1, 0, 3058726] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_16", "prompt": "What does 'bombardier_beetle' mean? (POS: noun)", "response": "'bombardier_beetle' relates to offsets [1, 0, 2167505] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_17", "prompt": "What does 'braid' mean? (POS: noun)", "response": "'braid' relates to offsets [2, 1, 5259512, 2889035] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_18", "prompt": "What does 'brown_rat' mean? (POS: noun)", "response": "'brown_rat' relates to offsets [1, 0, 2333546] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_19", "prompt": "What does 'butacaine' mean? (POS: noun)", "response": "'butacaine' relates to offsets [1, 0, 2926727] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_20", "prompt": "What does 'caltha_palustris' mean? (POS: noun)", "response": "'caltha_palustris' relates to offsets [1, 0, 11728099] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_21", "prompt": "What does 'capital_of_the_dominican_republic' mean? (POS: noun)", "response": "'capital_of_the_dominican_republic' relates to offsets [1, 0, 8752293] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_22", "prompt": "What does 'cartridge_paper' mean? (POS: noun)", "response": "'cartridge_paper' relates to offsets [2, 0, 14799927, 14799833] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_23", "prompt": "What does 'celtic' mean? (POS: noun)", "response": "'celtic' relates to offsets [1, 0, 6960298] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_24", "prompt": "What does 'charcot-marie-tooth_disease' mean? (POS: noun)", "response": "'charcot-marie-tooth_disease' relates to offsets [1, 0, 14208587] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_25", "prompt": "What does 'chinese_anise' mean? (POS: noun)", "response": "'chinese_anise' relates to offsets [2, 0, 11709205, 7826930] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_26", "prompt": "What does 'cinder_block' mean? (POS: noun)", "response": "'cinder_block' relates to offsets [1, 0, 3031957] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_27", "prompt": "What does 'climbing_hempweed' mean? (POS: noun)", "response": "'climbing_hempweed' relates to offsets [1, 0, 11996251] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_28", "prompt": "What does 'cognoscente' mean? (POS: noun)", "response": "'cognoscente' relates to offsets [1, 0, 9956387] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_29", "prompt": "What does 'common_sickle_pine' mean? (POS: noun)", "response": "'common_sickle_pine' relates to offsets [1, 0, 11654984] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_30", "prompt": "What does 'conoclinium' mean? (POS: noun)", "response": "'conoclinium' relates to offsets [1, 0, 11955770] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_31", "prompt": "What does 'corn_pudding' mean? (POS: noun)", "response": "'corn_pudding' relates to offsets [1, 0, 7617932] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_32", "prompt": "What does 'cowfish' mean? (POS: noun)", "response": "'cowfish' relates to offsets [1, 0, 2654745] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_33", "prompt": "What does 'crownwork' mean? (POS: noun)", "response": "'crownwork' relates to offsets [1, 0, 3139089] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_34", "prompt": "What does 'cydonia' mean? (POS: noun)", "response": "'cydonia' relates to offsets [1, 0, 12628872] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_35", "prompt": "What does 'david_hartley' mean? (POS: noun)", "response": "'david_hartley' relates to offsets [1, 0, 11033003] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_36", "prompt": "What does 'demand' mean? (POS: noun)", "response": "'demand' relates to offsets [5, 5, 7191279, 13461162, 5892651, 1061333, 14449126] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_37", "prompt": "What does 'di-iodotyrosine' mean? (POS: noun)", "response": "'di-iodotyrosine' relates to offsets [1, 1, 14834906] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_38", "prompt": "What does 'disaster' mean? (POS: noun)", "response": "'disaster' relates to offsets [3, 3, 14476290, 7314838, 217499] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_39", "prompt": "What does 'dolphin_oil' mean? (POS: noun)", "response": "'dolphin_oil' relates to offsets [1, 0, 14996709] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_40", "prompt": "What does 'dromaeosaur' mean? (POS: noun)", "response": "'dromaeosaur' relates to offsets [1, 0, 1717860] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_41", "prompt": "What does 'earth_god' mean? (POS: noun)", "response": "'earth_god' relates to offsets [1, 0, 9535708] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_42", "prompt": "What does 'el_nino' mean? (POS: noun)", "response": "'el_nino' relates to offsets [2, 0, 11488601, 11084110] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_43", "prompt": "What does 'empty_talk' mean? (POS: noun)", "response": "'empty_talk' relates to offsets [1, 0, 6609503] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_44", "prompt": "What does 'equerry' mean? (POS: noun)", "response": "'equerry' relates to offsets [2, 0, 10062594, 10062492] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_45", "prompt": "What does 'euphorbia_pulcherrima' mean? (POS: noun)", "response": "'euphorbia_pulcherrima' relates to offsets [1, 0, 12920204] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_46", "prompt": "What does 'eye_opener' mean? (POS: noun)", "response": "'eye_opener' relates to offsets [2, 0, 7912499, 7298624] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_47", "prompt": "What does 'family_delphinidae' mean? (POS: noun)", "response": "'family_delphinidae' relates to offsets [1, 0, 2068735] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_48", "prompt": "What does 'family_troglodytidae' mean? (POS: noun)", "response": "'family_troglodytidae' relates to offsets [1, 0, 1584004] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_49", "prompt": "What does 'fescue' mean? (POS: noun)", "response": "'fescue' relates to offsets [1, 0, 12121610] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_50", "prompt": "What does 'first_name' mean? (POS: noun)", "response": "'first_name' relates to offsets [1, 1, 6337307] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_51", "prompt": "What does 'fly_floor' mean? (POS: noun)", "response": "'fly_floor' relates to offsets [1, 0, 3373415] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_52", "prompt": "What does 'fragaria_ananassa' mean? (POS: noun)", "response": "'fragaria_ananassa' relates to offsets [1, 0, 12630478] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_53", "prompt": "What does 'fuel-air_bomb' mean? (POS: noun)", "response": "'fuel-air_bomb' relates to offsets [1, 0, 4420461] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_54", "prompt": "What does 'garfield' mean? (POS: noun)", "response": "'garfield' relates to offsets [1, 0, 10990733] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_55", "prompt": "What does 'genus_amanita' mean? (POS: noun)", "response": "'genus_amanita' relates to offsets [1, 0, 13002433] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_56", "prompt": "What does 'genus_consolida' mean? (POS: noun)", "response": "'genus_consolida' relates to offsets [1, 0, 11732309] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_57", "prompt": "What does 'genus_hylocichla' mean? (POS: noun)", "response": "'genus_hylocichla' relates to offsets [1, 0, 1559294] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_58", "prompt": "What does 'genus_parietaria' mean? (POS: noun)", "response": "'genus_parietaria' relates to offsets [1, 0, 12394494] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_59", "prompt": "What does 'genus_stercorarius' mean? (POS: noun)", "response": "'genus_stercorarius' relates to offsets [1, 0, 2044358] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_60", "prompt": "What does 'giambattista_marini' mean? (POS: noun)", "response": "'giambattista_marini' relates to offsets [1, 0, 11156812] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_61", "prompt": "What does 'going_to_jerusalem' mean? (POS: noun)", "response": "'going_to_jerusalem' relates to offsets [1, 0, 486670] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_62", "prompt": "What does 'grass_finch' mean? (POS: noun)", "response": "'grass_finch' relates to offsets [2, 0, 1544208, 1535140] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_63", "prompt": "What does 'growth_rate' mean? (POS: noun)", "response": "'growth_rate' relates to offsets [1, 1, 15278825] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_64", "prompt": "What does 'hair' mean? (POS: noun)", "response": "'hair' relates to offsets [6, 1, 5254795, 13761603, 13090091, 5254393, 3475674, 1900150] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_65", "prompt": "What does 'hasheesh' mean? (POS: noun)", "response": "'hasheesh' relates to offsets [1, 0, 3497182] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_66", "prompt": "What does 'hemiascomycetes' mean? (POS: noun)", "response": "'hemiascomycetes' relates to offsets [1, 0, 13024763] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_67", "prompt": "What does 'hilltop' mean? (POS: noun)", "response": "'hilltop' relates to offsets [1, 0, 8584787] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_68", "prompt": "What does 'hooker's_orchid' mean? (POS: noun)", "response": "'hooker's_orchid' relates to offsets [1, 0, 12067029] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_69", "prompt": "What does 'hunter-gatherer' mean? (POS: noun)", "response": "'hunter-gatherer' relates to offsets [1, 0, 10193419] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_70", "prompt": "What does 'ice_plant' mean? (POS: noun)", "response": "'ice_plant' relates to offsets [1, 0, 11821184] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_71", "prompt": "What does 'inclusion_body_encephalitis' mean? (POS: noun)", "response": "'inclusion_body_encephalitis' relates to offsets [1, 0, 14344189] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_72", "prompt": "What does 'insecticide' mean? (POS: noun)", "response": "'insecticide' relates to offsets [1, 0, 14919948] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_73", "prompt": "What does 'iridosmine' mean? (POS: noun)", "response": "'iridosmine' relates to offsets [1, 0, 14688978] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_74", "prompt": "What does 'james_knox_polk' mean? (POS: noun)", "response": "'james_knox_polk' relates to offsets [1, 0, 11240733] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_75", "prompt": "What does 'john_tradescant' mean? (POS: noun)", "response": "'john_tradescant' relates to offsets [1, 0, 11347674] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_76", "prompt": "What does 'karol_wojtyla' mean? (POS: noun)", "response": "'karol_wojtyla' relates to offsets [1, 0, 11087767] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_77", "prompt": "What does 'knapweed' mean? (POS: noun)", "response": "'knapweed' relates to offsets [1, 0, 11948264] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_78", "prompt": "What does 'lake_superior' mean? (POS: noun)", "response": "'lake_superior' relates to offsets [1, 0, 9333171] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_79", "prompt": "What does 'law_of_reciprocal_proportions' mean? (POS: noun)", "response": "'law_of_reciprocal_proportions' relates to offsets [1, 0, 5881578] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_80", "prompt": "What does 'leptosporangium' mean? (POS: noun)", "response": "'leptosporangium' relates to offsets [1, 0, 13093102] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_81", "prompt": "What does 'line_of_inquiry' mean? (POS: noun)", "response": "'line_of_inquiry' relates to offsets [1, 0, 5773776] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_82", "prompt": "What does 'loggia' mean? (POS: noun)", "response": "'loggia' relates to offsets [1, 0, 3687137] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_83", "prompt": "What does 'lumbar_plexus' mean? (POS: noun)", "response": "'lumbar_plexus' relates to offsets [2, 0, 5507268, 5507109] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_84", "prompt": "What does 'magnetomotive_force_unit' mean? (POS: noun)", "response": "'magnetomotive_force_unit' relates to offsets [1, 0, 13634615] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_85", "prompt": "What does 'mann' mean? (POS: noun)", "response": "'mann' relates to offsets [2, 0, 11154174, 11154023] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_86", "prompt": "What does 'massif_central' mean? (POS: noun)", "response": "'massif_central' relates to offsets [1, 0, 9348643] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_87", "prompt": "What does 'megasporangium' mean? (POS: noun)", "response": "'megasporangium' relates to offsets [1, 0, 11687432] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_88", "prompt": "What does 'meticulousness' mean? (POS: noun)", "response": "'meticulousness' relates to offsets [1, 0, 4672605] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_89", "prompt": "What does 'mineralogy' mean? (POS: noun)", "response": "'mineralogy' relates to offsets [1, 1, 6121113] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_90", "prompt": "What does 'mongol_tatar' mean? (POS: noun)", "response": "'mongol_tatar' relates to offsets [1, 0, 9644657] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_91", "prompt": "What does 'mountain_swamp_gum' mean? (POS: noun)", "response": "'mountain_swamp_gum' relates to offsets [1, 0, 12336586] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_92", "prompt": "What does 'mutual_exclusiveness' mean? (POS: noun)", "response": "'mutual_exclusiveness' relates to offsets [1, 0, 13858045] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_93", "prompt": "What does 'nauclea' mean? (POS: noun)", "response": "'nauclea' relates to offsets [1, 0, 12668732] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_94", "prompt": "What does 'new_world_mouse' mean? (POS: noun)", "response": "'new_world_mouse' relates to offsets [1, 0, 2336011] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_95", "prompt": "What does 'nonstop' mean? (POS: noun)", "response": "'nonstop' relates to offsets [1, 0, 302001] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_96", "prompt": "What does 'obbligato' mean? (POS: noun)", "response": "'obbligato' relates to offsets [2, 0, 7029581, 6815970] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_97", "prompt": "What does 'olympic_god' mean? (POS: noun)", "response": "'olympic_god' relates to offsets [1, 0, 9553347] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_98", "prompt": "What does 'order_loricata' mean? (POS: noun)", "response": "'order_loricata' relates to offsets [1, 0, 1696525] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_99", "prompt": "What does 'outcropping' mean? (POS: noun)", "response": "'outcropping' relates to offsets [1, 0, 9381242] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_100", "prompt": "What does 'palestine_liberation_front' mean? (POS: noun)", "response": "'palestine_liberation_front' relates to offsets [1, 0, 8037503] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_101", "prompt": "What does 'parry' mean? (POS: noun)", "response": "'parry' relates to offsets [2, 0, 1174495, 135504] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_102", "prompt": "What does 'pediculati' mean? (POS: noun)", "response": "'pediculati' relates to offsets [1, 0, 2547213] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_103", "prompt": "What does 'persistency' mean? (POS: noun)", "response": "'persistency' relates to offsets [1, 1, 4864515] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_104", "prompt": "What does 'photogenic_epilepsy' mean? (POS: noun)", "response": "'photogenic_epilepsy' relates to offsets [1, 0, 14089339] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_105", "prompt": "What does 'pink_disease_fungus' mean? (POS: noun)", "response": "'pink_disease_fungus' relates to offsets [1, 0, 13015509] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_106", "prompt": "What does 'plaza' mean? (POS: noun)", "response": "'plaza' relates to offsets [2, 0, 8619795, 3965456] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_107", "prompt": "What does 'polycirrus' mean? (POS: noun)", "response": "'polycirrus' relates to offsets [1, 0, 1937422] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_108", "prompt": "What does 'potbelly' mean? (POS: noun)", "response": "'potbelly' relates to offsets [2, 0, 5556071, 3991202] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_109", "prompt": "What does 'pride' mean? (POS: noun)", "response": "'pride' relates to offsets [5, 3, 7508486, 7531536, 4886646, 7995278, 758175] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_110", "prompt": "What does 'protectionism' mean? (POS: noun)", "response": "'protectionism' relates to offsets [1, 0, 6658786] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_111", "prompt": "What does 'pulse_modulation' mean? (POS: noun)", "response": "'pulse_modulation' relates to offsets [1, 0, 6281959] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_112", "prompt": "What does 'quercus_grosseserrata' mean? (POS: noun)", "response": "'quercus_grosseserrata' relates to offsets [1, 0, 12275317] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_113", "prompt": "What does 'rankine_scale' mean? (POS: noun)", "response": "'rankine_scale' relates to offsets [1, 0, 13853198] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_114", "prompt": "What does 'red_goatfish' mean? (POS: noun)", "response": "'red_goatfish' relates to offsets [1, 0, 2600503] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_115", "prompt": "What does 'republic_of_albania' mean? (POS: noun)", "response": "'republic_of_albania' relates to offsets [1, 0, 8704822] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_116", "prompt": "What does 'rhynchoelaps_australis' mean? (POS: noun)", "response": "'rhynchoelaps_australis' relates to offsets [1, 0, 1747285] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_117", "prompt": "What does 'rockchuck' mean? (POS: noun)", "response": "'rockchuck' relates to offsets [1, 0, 2361850] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_118", "prompt": "What does 'rue_anemone' mean? (POS: noun)", "response": "'rue_anemone' relates to offsets [1, 0, 11726707] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_119", "prompt": "What does 'saleslady' mean? (POS: noun)", "response": "'saleslady' relates to offsets [1, 1, 10548419] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_120", "prompt": "What does 'satinpod' mean? (POS: noun)", "response": "'satinpod' relates to offsets [1, 0, 11891541] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_121", "prompt": "What does 'scomberomorus_sierra' mean? (POS: noun)", "response": "'scomberomorus_sierra' relates to offsets [1, 0, 2626471] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_122", "prompt": "What does 'securer' mean? (POS: noun)", "response": "'securer' relates to offsets [1, 0, 10479328] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_123", "prompt": "What does 'serrate_leaf' mean? (POS: noun)", "response": "'serrate_leaf' relates to offsets [1, 0, 13160695] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_124", "prompt": "What does 'shipping' mean? (POS: noun)", "response": "'shipping' relates to offsets [2, 1, 1105259, 4196502] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_125", "prompt": "What does 'sillabub' mean? (POS: noun)", "response": "'sillabub' relates to offsets [2, 0, 7916872, 7613158] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_126", "prompt": "What does 'skin_senses' mean? (POS: noun)", "response": "'skin_senses' relates to offsets [1, 0, 5655119] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_127", "prompt": "What does 'snowball' mean? (POS: noun)", "response": "'snowball' relates to offsets [4, 1, 11837020, 7616265, 7616174, 4251560] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_128", "prompt": "What does 'sound' mean? (POS: noun)", "response": "'sound' relates to offsets [8, 6, 4981139, 5718254, 11480930, 7371293, 6278136, 7111047] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_129", "prompt": "What does 'spiegel' mean? (POS: noun)", "response": "'spiegel' relates to offsets [1, 0, 15049401] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_130", "prompt": "What does 'st._john' mean? (POS: noun)", "response": "'st._john' relates to offsets [3, 0, 11085924, 9419536, 8824771] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_131", "prompt": "What does 'stepped_line' mean? (POS: noun)", "response": "'stepped_line' relates to offsets [1, 0, 6345566] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_132", "prompt": "What does 'string_line' mean? (POS: noun)", "response": "'string_line' relates to offsets [1, 0, 8516260] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_133", "prompt": "What does 'suffix' mean? (POS: noun)", "response": "'suffix' relates to offsets [1, 1, 6308987] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_134", "prompt": "What does 'swamp_blueberry' mean? (POS: noun)", "response": "'swamp_blueberry' relates to offsets [1, 0, 12247664] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_135", "prompt": "What does 'tactile_property' mean? (POS: noun)", "response": "'tactile_property' relates to offsets [1, 0, 4946553] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_136", "prompt": "What does 'tdt' mean? (POS: noun)", "response": "'tdt' relates to offsets [1, 0, 15156746] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_137", "prompt": "What does 'teth' mean? (POS: noun)", "response": "'teth' relates to offsets [1, 0, 6837572] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_138", "prompt": "What does 'three-seeded_mercury' mean? (POS: noun)", "response": "'three-seeded_mercury' relates to offsets [1, 0, 12922458] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_139", "prompt": "What does 'toccata' mean? (POS: noun)", "response": "'toccata' relates to offsets [1, 0, 7044353] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_140", "prompt": "What does 'traffic_pattern' mean? (POS: noun)", "response": "'traffic_pattern' relates to offsets [1, 0, 8492747] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_141", "prompt": "What does 'trinidadian' mean? (POS: noun)", "response": "'trinidadian' relates to offsets [1, 0, 10729711] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_142", "prompt": "What does 'turp' mean? (POS: noun)", "response": "'turp' relates to offsets [1, 0, 694088] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_143", "prompt": "What does 'unhurriedness' mean? (POS: noun)", "response": "'unhurriedness' relates to offsets [1, 0, 5061977] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_144", "prompt": "What does 'vacation_spot' mean? (POS: noun)", "response": "'vacation_spot' relates to offsets [1, 0, 8640739] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_145", "prompt": "What does 'vepsian' mean? (POS: noun)", "response": "'vepsian' relates to offsets [2, 0, 9707992, 6958417] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_146", "prompt": "What does 'visual_hallucination' mean? (POS: noun)", "response": "'visual_hallucination' relates to offsets [1, 0, 14378439] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_147", "prompt": "What does 'washerman' mean? (POS: noun)", "response": "'washerman' relates to offsets [1, 0, 10769084] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_148", "prompt": "What does 'western_poppy' mean? (POS: noun)", "response": "'western_poppy' relates to offsets [1, 0, 11901452] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_149", "prompt": "What does 'wilhelm_konrad_roentgen' mean? (POS: noun)", "response": "'wilhelm_konrad_roentgen' relates to offsets [1, 0, 11268326] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_150", "prompt": "What does 'woodworking_plane' mean? (POS: noun)", "response": "'woodworking_plane' relates to offsets [1, 0, 3954731] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_151", "prompt": "What does 'yellow_iris' mean? (POS: noun)", "response": "'yellow_iris' relates to offsets [1, 0, 12414602] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_152", "prompt": "What does 'affiliate' mean? (POS: verb)", "response": "'affiliate' relates to offsets [2, 0, 2589245, 2435311] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_153", "prompt": "What does 'blinker' mean? (POS: verb)", "response": "'blinker' relates to offsets [1, 0, 1337819] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_154", "prompt": "What does 'cheat_on' mean? (POS: verb)", "response": "'cheat_on' relates to offsets [1, 0, 2576503] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_155", "prompt": "What does 'cricket' mean? (POS: verb)", "response": "'cricket' relates to offsets [1, 0, 1076017] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_156", "prompt": "What does 'distress' mean? (POS: verb)", "response": "'distress' relates to offsets [2, 0, 2603424, 1798100] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_157", "prompt": "What does 'fecundate' mean? (POS: verb)", "response": "'fecundate' relates to offsets [2, 0, 504270, 52548] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_158", "prompt": "What does 'gormandise' mean? (POS: verb)", "response": "'gormandise' relates to offsets [1, 0, 1193099] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_159", "prompt": "What does 'inunct' mean? (POS: verb)", "response": "'inunct' relates to offsets [1, 0, 85626] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_160", "prompt": "What does 'medicate' mean? (POS: verb)", "response": "'medicate' relates to offsets [2, 0, 84562, 84230] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_161", "prompt": "What does 'pare' mean? (POS: verb)", "response": "'pare' relates to offsets [4, 1, 233089, 1552219, 1262936, 1262564] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_162", "prompt": "What does 'quell' mean? (POS: verb)", "response": "'quell' relates to offsets [2, 1, 463234, 1194114] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_163", "prompt": "What does 'ruminate' mean? (POS: verb)", "response": "'ruminate' relates to offsets [2, 0, 1174555, 630380] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_164", "prompt": "What does 'snatch' mean? (POS: verb)", "response": "'snatch' relates to offsets [3, 2, 1439745, 1213146, 1471043] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_165", "prompt": "What does 'taint' mean? (POS: verb)", "response": "'taint' relates to offsets [2, 0, 1537959, 88713] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_166", "prompt": "What does 'unsubstantialize' mean? (POS: verb)", "response": "'unsubstantialize' relates to offsets [1, 0, 547802] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_167", "prompt": "What does 'abiogenetic' mean? (POS: adj)", "response": "'abiogenetic' relates to offsets [1, 0, 2599837] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_168", "prompt": "What does 'aminic' mean? (POS: adj)", "response": "'aminic' relates to offsets [1, 0, 2617146] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_169", "prompt": "What does 'at_the_ready' mean? (POS: adj)", "response": "'at_the_ready' relates to offsets [1, 0, 1931034] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_170", "prompt": "What does 'biyearly' mean? (POS: adj)", "response": "'biyearly' relates to offsets [2, 0, 1969477, 1969348] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_171", "prompt": "What does 'capsulated' mean? (POS: adj)", "response": "'capsulated' relates to offsets [1, 0, 1657420] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_172", "prompt": "What does 'colorful' mean? (POS: adj)", "response": "'colorful' relates to offsets [3, 2, 402419, 406867, 394562] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_173", "prompt": "What does 'curst' mean? (POS: adj)", "response": "'curst' relates to offsets [1, 0, 669478] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_174", "prompt": "What does 'dislikable' mean? (POS: adj)", "response": "'dislikable' relates to offsets [1, 0, 1461597] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_175", "prompt": "What does 'environmental' mean? (POS: adj)", "response": "'environmental' relates to offsets [2, 1, 2943303, 2943151] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_176", "prompt": "What does 'flagrant' mean? (POS: adj)", "response": "'flagrant' relates to offsets [1, 0, 580039] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_177", "prompt": "What does 'gossipy' mean? (POS: adj)", "response": "'gossipy' relates to offsets [1, 0, 496422] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_178", "prompt": "What does 'honorary' mean? (POS: adj)", "response": "'honorary' relates to offsets [1, 0, 821959] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_179", "prompt": "What does 'inflowing' mean? (POS: adj)", "response": "'inflowing' relates to offsets [1, 0, 1295255] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_180", "prompt": "What does 'last-minute' mean? (POS: adj)", "response": "'last-minute' relates to offsets [1, 1, 1901649] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_181", "prompt": "What does 'masoretic' mean? (POS: adj)", "response": "'masoretic' relates to offsets [1, 0, 2895565] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_182", "prompt": "What does 'naked-muzzled' mean? (POS: adj)", "response": "'naked-muzzled' relates to offsets [1, 0, 211735] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_183", "prompt": "What does 'off-and-on' mean? (POS: adj)", "response": "'off-and-on' relates to offsets [1, 0, 290593] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_184", "prompt": "What does 'peaky' mean? (POS: adj)", "response": "'peaky' relates to offsets [1, 1, 1214255] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_185", "prompt": "What does 'prenominal' mean? (POS: adj)", "response": "'prenominal' relates to offsets [1, 0, 172562] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_186", "prompt": "What does 'reddish' mean? (POS: adj)", "response": "'reddish' relates to offsets [1, 0, 381097] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_187", "prompt": "What does 'scarlet-pink' mean? (POS: adj)", "response": "'scarlet-pink' relates to offsets [1, 0, 383521] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_188", "prompt": "What does 'skim' mean? (POS: adj)", "response": "'skim' relates to offsets [1, 0, 993316] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_189", "prompt": "What does 'stoned' mean? (POS: adj)", "response": "'stoned' relates to offsets [1, 0, 799401] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_190", "prompt": "What does 'theistic' mean? (POS: adj)", "response": "'theistic' relates to offsets [1, 1, 2931345] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_191", "prompt": "What does 'unaffected' mean? (POS: adj)", "response": "'unaffected' relates to offsets [4, 2, 71992, 2107827, 1560320, 74346] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_192", "prompt": "What does 'uninventive' mean? (POS: adj)", "response": "'uninventive' relates to offsets [1, 0, 644560] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_193", "prompt": "What does 'unwoven' mean? (POS: adj)", "response": "'unwoven' relates to offsets [1, 0, 2579952] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_194", "prompt": "What does 'woebegone' mean? (POS: adj)", "response": "'woebegone' relates to offsets [2, 0, 2581530, 1366525] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_195", "prompt": "What does 'brightly' mean? (POS: adv)", "response": "'brightly' relates to offsets [1, 1, 77168] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_196", "prompt": "What does 'far_and_away' mean? (POS: adv)", "response": "'far_and_away' relates to offsets [1, 0, 1, 0, 47056] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_197", "prompt": "What does 'inorganically' mean? (POS: adv)", "response": "'inorganically' relates to offsets [1, 0, 113441] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_198", "prompt": "What does 'p.a.' mean? (POS: adv)", "response": "'p.a.' relates to offsets [1, 0, 1, 0, 250570] in WordNet.", "seed": 2025, "source": "wordnet"}
+{"id": "wn_2025_199", "prompt": "What does 'sourly' mean? (POS: adv)", "response": "'sourly' relates to offsets [1, 1, 462718] in WordNet.", "seed": 2025, "source": "wordnet"}

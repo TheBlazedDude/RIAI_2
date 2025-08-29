@@ -1,0 +1,18 @@
+{
+  "job_id": "train_7a3f32c478",
+  "type": "train",
+  "module_id": "chat-core",
+  "seed": 1337,
+  "created_at": "2025-08-29T14:22:12.681268+00:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T14:22:12.777417+00:00",
+  "result": {
+    "model_id": "chat_retrieval_1337",
+    "registry": "/app/app/registry/models/chat_retrieval_1337.json",
+    "lm": "/app/app/artifacts/chat/lm_ngram.json",
+    "bubble": "/app/app/artifacts/bubble/model.json",
+    "module_id": "chat-core",
+    "seed": 1337,
+    "status": "ok"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "job_id": "train_0b3a8572b4",
+  "type": "train",
+  "module_id": "lexicon-wordnet3",
+  "seed": 1337,
+  "created_at": "2025-08-28T19:38:18.895720+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-28T19:38:19.451853+02:00",
+  "result": {
+    "index": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\indices\\wordnet-lexicon.jsonl",
+    "module_id": "lexicon-wordnet3",
+    "seed": 1337,
+    "status": "ok"
+  }
+}

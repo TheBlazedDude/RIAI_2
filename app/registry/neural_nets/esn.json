@@ -1,0 +1,5 @@
+{
+  "id": "esn",
+  "name": "Echo State Network (ESN)",
+  "family": "reservoir_computing"
+}

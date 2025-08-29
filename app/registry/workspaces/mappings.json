@@ -1,0 +1,6 @@
+{
+  "module_map": {
+    "chat-core": "chat_cnn_generic_1337"
+  },
+  "capability_map": {}
+}

@@ -1,0 +1,5 @@
+{
+  "id": "vit",
+  "name": "Vision Transformer (ViT)",
+  "family": "vision_transformer"
+}

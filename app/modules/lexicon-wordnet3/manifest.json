@@ -1,0 +1,28 @@
+{
+  "id": "lexicon-wordnet3",
+  "name": "Lexicon (WordNet 3.x)",
+  "version": "0.1.0",
+  "description": "WordNet files, index builder, and synthetic dialog generator.",
+  "capabilities": ["chat"],
+  "task": "retrieval_lexicon",
+  "inputs": ["text"],
+  "outputs": ["text"],
+  "ui_panels": ["none"],
+  "model_constraints": {
+    "model_type": "index",
+    "io_schema": {"inputs": ["text"], "outputs": ["text"]}
+  },
+  "datasets": [
+    {"id": "wordnet_glosses", "name": "WordNet Glosses", "synthetic_generators": [{"name": "synth_dialogs", "seed": 1337}]}
+  ],
+  "pipelines": {
+    "train": "modules\\lexicon-wordnet3\\pipelines\\build_index.py",
+    "eval": "modules\\lexicon-wordnet3\\pipelines\\synth_dialogs.py"
+  },
+  "permissions": {"camera": false, "microphone": false, "filesystem": true},
+  "resources": {"cpu_hint": "low", "gpu_required": false, "vram_mb": 0, "ram_mb": 256},
+  "guardrails": {"max_tokens": 256, "pii_regex": ["(?i)ssn\\b[ -]?\\d{3}-?\\d{2}-?\\d{4}"], "blocked_categories": [], "allowed_file_types": [".json", ".txt"]},
+  "artifacts": {"root": "artifacts\\indices", "metrics_dir": "artifacts\\metrics\\chat-core"},
+  "autotrain": true,
+  "schema_version": "1"
+}

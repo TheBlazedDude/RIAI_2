@@ -1,0 +1,5 @@
+{
+  "id": "dqn",
+  "name": "DQN (Deep Q-Network)",
+  "family": "rl"
+}

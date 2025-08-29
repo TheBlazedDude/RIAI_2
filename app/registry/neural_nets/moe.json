@@ -1,0 +1,5 @@
+{
+  "id": "moe",
+  "name": "Mixture of Experts (MoE)",
+  "family": "sparse_mixture"
+}

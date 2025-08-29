@@ -1,0 +1,5 @@
+{
+  "id": "mobilenet",
+  "name": "MobileNet",
+  "family": "vision_edge"
+}

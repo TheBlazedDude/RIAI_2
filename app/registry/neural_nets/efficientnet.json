@@ -1,0 +1,5 @@
+{
+  "id": "efficientnet",
+  "name": "EfficientNet",
+  "family": "vision_edge"
+}

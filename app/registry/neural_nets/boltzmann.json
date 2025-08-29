@@ -1,0 +1,5 @@
+{
+  "id": "boltzmann",
+  "name": "Boltzmann Machine",
+  "family": "unsupervised"
+}

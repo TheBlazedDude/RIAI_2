@@ -1,0 +1,5 @@
+{
+  "id": "mask_rcnn",
+  "name": "Mask R-CNN",
+  "family": "vision_segmentation"
+}

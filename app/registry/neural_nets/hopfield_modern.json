@@ -1,0 +1,5 @@
+{
+  "id": "hopfield_modern",
+  "name": "Hopfield Network (modern)",
+  "family": "associative_memory"
+}

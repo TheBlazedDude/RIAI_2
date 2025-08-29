@@ -1,0 +1,5 @@
+{
+  "id": "gnn_generic",
+  "name": "GNN (Message Passing)",
+  "family": "graph"
+}

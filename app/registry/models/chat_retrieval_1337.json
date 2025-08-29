@@ -1,0 +1,12 @@
+{
+  "id": "chat_retrieval_1337",
+  "name": "chat_retrieval_1337",
+  "capability": "chat",
+  "task": "dialogue",
+  "created_at": "2025-08-29T15:16:51.660094+00:00",
+  "metrics": {},
+  "mode": "retrieval+ngram",
+  "lm_path": "/app/app/artifacts/chat/lm_ngram.json",
+  "order": 3,
+  "train_seed": 1337
+}

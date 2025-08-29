@@ -1,0 +1,5 @@
+{
+  "id": "siamese",
+  "name": "Siamese Network",
+  "family": "metric_learning"
+}

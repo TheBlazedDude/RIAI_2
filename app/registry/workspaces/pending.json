@@ -1,0 +1,9 @@
+{
+  "id": "pending",
+  "name": "Pending Workspace",
+  "selected_modules": [
+    "chat-core"
+  ],
+  "seed": 1337,
+  "updated_at": "2025-08-29T15:16:45.129191+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "job": "train_sft",
+  "seed": 1337,
+  "order": 3,
+  "ppl_base": 2.2238394760732128,
+  "ppl_trained": 2.2215496409215985,
+  "improved": true
+}

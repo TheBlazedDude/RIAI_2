@@ -1,0 +1,5 @@
+{
+  "id": "resnet",
+  "name": "ResNet",
+  "family": "vision"
+}

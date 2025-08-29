@@ -1,0 +1,5 @@
+{
+  "id": "sac",
+  "name": "SAC (Soft Actor-Critic)",
+  "family": "rl"
+}

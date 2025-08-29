@@ -1,0 +1,5 @@
+{
+  "id": "a3c",
+  "name": "A3C (Asynchronous Advantage Actor-Critic)",
+  "family": "rl"
+}

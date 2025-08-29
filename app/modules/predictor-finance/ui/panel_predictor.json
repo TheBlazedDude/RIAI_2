@@ -1,0 +1,14 @@
+{
+  "panel": "predictions_dashboard",
+  "title": "Predictions",
+  "description": "Offline forecasts dashboard for OHLCV (synthetic or local datasets).",
+  "runtime": {
+    "inputs": ["timeseries", "table"],
+    "outputs": ["forecast"],
+    "guardrails": ["allowed_file_types"]
+  },
+  "model_lab": {
+    "panel": "model_lab_forecast",
+    "charts": ["forecast_viewer", "metrics_table", "promotion_timeline"]
+  }
+}

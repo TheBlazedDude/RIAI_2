@@ -1,0 +1,5 @@
+{
+  "id": "densenet",
+  "name": "DenseNet",
+  "family": "vision"
+}

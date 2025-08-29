@@ -1,0 +1,5 @@
+{
+  "id": "lstm",
+  "name": "LSTM",
+  "family": "sequence_model"
+}

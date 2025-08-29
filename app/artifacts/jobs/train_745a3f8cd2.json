@@ -1,0 +1,16 @@
+{
+  "job_id": "train_745a3f8cd2",
+  "type": "train",
+  "module_id": "predictor-finance",
+  "seed": 1337,
+  "created_at": "2025-08-28T19:47:40.549422+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-28T19:47:40.552307+02:00",
+  "result": {
+    "model_id": "predictor_ma_1337",
+    "registry": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\registry\\models\\predictor_ma_1337.json",
+    "module_id": "predictor-finance",
+    "seed": 1337,
+    "status": "ok"
+  }
+}

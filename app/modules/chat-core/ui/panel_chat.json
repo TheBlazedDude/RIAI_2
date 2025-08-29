@@ -1,0 +1,10 @@
+{
+  "panel": "chat_panel",
+  "title": "Chat",
+  "description": "Offline chat panel powered by WordNet retrieval and optional tiny LM.",
+  "runtime": {
+    "inputs": ["text"],
+    "outputs": ["text"],
+    "guardrails": ["max_tokens", "pii_regex", "blocked_categories"]
+  }
+}

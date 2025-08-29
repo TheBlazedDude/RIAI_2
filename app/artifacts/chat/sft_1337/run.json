@@ -1,0 +1,11 @@
+{
+  "job": "train_sft",
+  "seed": 1337,
+  "created_at": "2025-08-29T16:36:40.301693+02:00",
+  "code_hash": "9d2edefb1f116a5daf4a82bf3e2ed5e3ae2cd10df8ad80dc4fd6c7b02291400b",
+  "dataset_hash": "319176d8ed1b8958aafcdd1b09311d9e25c3a45cee444db367b8df399f53bca4",
+  "artifacts": {
+    "ckpt": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\chat\\sft_1337\\ckpt_sft_1337.json",
+    "metrics": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\chat\\sft_1337\\metrics.json"
+  }
+}

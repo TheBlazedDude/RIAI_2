@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:riai:module-manifest:schema:v1",
+  "title": "Module Manifest Schema",
+  "type": "object",
+  "required": [
+    "id", "name", "version", "description",
+    "capabilities", "task", "inputs", "outputs",
+    "ui_panels", "model_constraints", "pipelines",
+    "resources", "guardrails", "autotrain", "schema_version"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "name": {"type": "string", "minLength": 1},
+    "version": {"type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+(-[a-z0-9]+)?$"},
+    "description": {"type": "string"},
+    "capabilities": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string", "enum": ["chat", "vision", "speech", "predictor"]},
+      "uniqueItems": true
+    },
+    "task": {"type": "string"},
+    "inputs": {"type": "array", "items": {"type": "string", "enum": ["text", "audio", "image", "video", "timeseries", "table"]}},
+    "outputs": {"type": "array", "items": {"type": "string", "enum": ["text", "transcript", "labels", "embeddings", "forecast"]}},
+    "ui_panels": {"type": "array", "items": {"type": "string"}},
+    "model_constraints": {
+      "type": "object",
+      "properties": {
+        "model_type": {"type": "string"},
+        "min_data": {"type": "integer", "minimum": 0},
+        "io_schema": {
+          "type": "object",
+          "properties": {
+            "inputs": {"type": "array", "items": {"type": "string"}},
+            "outputs": {"type": "array", "items": {"type": "string"}}
+          },
+          "required": ["inputs", "outputs"]
+        }
+      },
+      "required": ["model_type", "io_schema"],
+      "additionalProperties": true
+    },
+    "datasets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {"type": "string"},
+          "name": {"type": "string"},
+          "tags": {"type": "array", "items": {"type": "string"}},
+          "synthetic_generators": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {"type": "string"},
+                "seed": {"type": "integer"},
+                "params": {"type": "object"}
+              },
+              "required": ["name", "seed"]
+            }
+          }
+        },
+        "required": ["id", "name"]
+      }
+    },
+    "pipelines": {
+      "type": "object",
+      "properties": {
+        "train": {"type": "string"},
+        "eval": {"type": "string"},
+        "retrieve": {"type": "string"}
+      },
+      "required": ["train", "eval"]
+    },
+    "permissions": {
+      "type": "object",
+      "properties": {
+        "camera": {"type": "boolean"},
+        "microphone": {"type": "boolean"},
+        "filesystem": {"type": "boolean"}
+      },
+      "additionalProperties": false
+    },
+    "resources": {
+      "type": "object",
+      "properties": {
+        "cpu_hint": {"type": "string"},
+        "gpu_required": {"type": "boolean"},
+        "vram_mb": {"type": "integer", "minimum": 0},
+        "ram_mb": {"type": "integer", "minimum": 0}
+      },
+      "required": ["cpu_hint", "gpu_required", "vram_mb", "ram_mb"]
+    },
+    "guardrails": {
+      "type": "object",
+      "properties": {
+        "max_tokens": {"type": "integer", "minimum": 1},
+        "pii_regex": {"type": "array", "items": {"type": "string"}},
+        "blocked_categories": {"type": "array", "items": {"type": "string"}},
+        "allowed_file_types": {"type": "array", "items": {"type": "string"}}
+      },
+      "required": ["max_tokens"]
+    },
+    "artifacts": {
+      "type": "object",
+      "properties": {
+        "root": {"type": "string"},
+        "metrics_dir": {"type": "string"}
+      },
+      "required": ["root"]
+    },
+    "autotrain": {"type": "boolean"},
+    "schema_version": {"type": "string"}
+  },
+  "examples": [
+    {
+      "id": "lexicon-wordnet3",
+      "name": "Lexicon (WordNet 3.x)",
+      "version": "0.1.0",
+      "description": "WordNet files, index builder, and synthetic dialog generator.",
+      "capabilities": ["chat"],
+      "task": "retrieval_lexicon",
+      "inputs": ["text"],
+      "outputs": ["text"],
+      "ui_panels": ["none"],
+      "model_constraints": {"model_type": "index", "io_schema": {"inputs": ["text"], "outputs": ["text"]}},
+      "datasets": [
+        {"id": "wordnet_glosses", "name": "WordNet Glosses", "synthetic_generators": [{"name": "synth_dialogs", "seed": 1337}]}
+      ],
+      "pipelines": {"train": "pipelines\\build_index.py", "eval": "pipelines\\synth_dialogs.py"},
+      "permissions": {"camera": false, "microphone": false, "filesystem": true},
+      "resources": {"cpu_hint": "low", "gpu_required": false, "vram_mb": 0, "ram_mb": 256},
+      "guardrails": {"max_tokens": 256, "pii_regex": ["(?i)ssn\\b[ -]?\\d{3}-?\\d{2}-?\\d{4}"], "blocked_categories": [], "allowed_file_types": [".json", ".txt"]},
+      "artifacts": {"root": "artifacts\\indices", "metrics_dir": "artifacts\\metrics\\chat-core"},
+      "autotrain": true,
+      "schema_version": "1"
+    }
+  ]
+}

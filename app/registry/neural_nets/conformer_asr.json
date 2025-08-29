@@ -1,0 +1,5 @@
+{
+  "id": "conformer_asr",
+  "name": "Conformer (ASR)",
+  "family": "speech_recognition"
+}

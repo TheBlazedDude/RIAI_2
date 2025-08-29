@@ -1,0 +1,31 @@
+{
+  "id": "predictor-finance",
+  "name": "Predictor — Finance (OHLCV)",
+  "version": "0.1.0",
+  "description": "Offline forecasts over OHLCV with seeded synthetic data and small baselines.",
+  "capabilities": ["predictor"],
+  "task": "forecast",
+  "inputs": ["timeseries", "table"],
+  "outputs": ["forecast"],
+  "ui_panels": ["predictions_dashboard", "model_lab_forecast"],
+  "model_constraints": {
+    "model_type": "baseline_or_small_mlp",
+    "io_schema": {"inputs": ["timeseries"], "outputs": ["forecast"]}
+  },
+  "datasets": [
+    {"id": "ohlcv_samples", "name": "Bundled OHLCV Samples", "tags": ["finance", "ohlcv"]},
+    {"id": "ohlcv_synth", "name": "Synthetic OHLCV", "tags": ["synthetic", "finance"],
+     "synthetic_generators": [{"name": "ohlcv_ar1_gbm", "seed": 42, "params": {"length": 512, "horizon": 8, "volatility": 0.01}}]
+    }
+  ],
+  "pipelines": {
+    "train": "modules\\predictor-finance\\pipelines\\train_baselines.py",
+    "eval": "modules\\predictor-finance\\pipelines\\eval_forecast.py"
+  },
+  "permissions": {"filesystem": true, "camera": false, "microphone": false},
+  "resources": {"cpu_hint": "low", "gpu_required": false, "vram_mb": 0, "ram_mb": 512},
+  "guardrails": {"max_tokens": 256, "pii_regex": [], "blocked_categories": [], "allowed_file_types": [".csv", ".json"]},
+  "artifacts": {"root": "artifacts\\predictor-finance", "metrics_dir": "artifacts\\metrics\\predictor"},
+  "autotrain": false,
+  "schema_version": "1"
+}

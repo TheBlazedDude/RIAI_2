@@ -1,0 +1,16 @@
+{
+  "job_id": "train_21297fcb44",
+  "type": "train",
+  "module_id": "lexicon-wordnet3",
+  "seed": 1337,
+  "created_at": "2025-08-29T16:13:31.638646+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T16:13:32.265019+02:00",
+  "result": {
+    "index": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\indices\\wordnet-lexicon.jsonl",
+    "bubble": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\artifacts\\bubble\\model.json",
+    "module_id": "lexicon-wordnet3",
+    "seed": 1337,
+    "status": "ok"
+  }
+}

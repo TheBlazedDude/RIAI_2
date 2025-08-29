@@ -1,0 +1,21 @@
+# Docker build context ignore
+.git
+.gitignore
+.junie/
+.vscode/
+.idea/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.venv/
+venv/
+.env
+node_modules/
+app/frontend/node_modules/
+app/frontend/.vite/
+app/frontend/dist/
+app/artifacts/
+app/registry/
+# Keep WordNet data included
+!WordNet-3.0/

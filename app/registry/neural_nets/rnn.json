@@ -1,0 +1,5 @@
+{
+  "id": "rnn",
+  "name": "RNN",
+  "family": "sequence_model"
+}

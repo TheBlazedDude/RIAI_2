@@ -1,0 +1,16 @@
+{
+  "job_id": "train_2e3ecc52a4",
+  "type": "train",
+  "module_id": "chat-core",
+  "seed": 1337,
+  "created_at": "2025-08-28T19:47:40.545551+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-28T19:47:40.548025+02:00",
+  "result": {
+    "model_id": "chat_retrieval_1337",
+    "registry": "C:\\Users\\beneb\\PycharmProjects\\RIAI_2\\app\\registry\\models\\chat_retrieval_1337.json",
+    "module_id": "chat-core",
+    "seed": 1337,
+    "status": "ok"
+  }
+}

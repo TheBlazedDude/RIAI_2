@@ -1,0 +1,17 @@
+{
+  "model_id": "chat_retrieval_1337",
+  "seed": 1337,
+  "model_train_seed": 1337,
+  "nn_id": null,
+  "latency_ms": {
+    "p50": 1.041,
+    "p95": 1.312
+  },
+  "grounding_hit_rate": 0.99,
+  "lm": {
+    "order": 3,
+    "contexts": 2559,
+    "total_transitions": 63969
+  },
+  "timestamp": "2025-08-29T16:36:44.628806+02:00"
+}

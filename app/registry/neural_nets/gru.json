@@ -1,0 +1,5 @@
+{
+  "id": "gru",
+  "name": "GRU",
+  "family": "sequence_model"
+}

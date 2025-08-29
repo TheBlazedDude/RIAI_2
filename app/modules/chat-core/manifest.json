@@ -1,0 +1,29 @@
+{
+  "id": "chat-core",
+  "name": "Chat Core",
+  "version": "0.1.0",
+  "description": "Retrieval-first chat using WordNet glosses; optional tiny LM.",
+  "capabilities": ["chat"],
+  "task": "dialogue",
+  "inputs": ["text"],
+  "outputs": ["text"],
+  "ui_panels": ["chat_panel"],
+  "model_constraints": {
+    "model_type": "retrieval_or_tiny_lm",
+    "io_schema": {"inputs": ["text"], "outputs": ["text"]}
+  },
+  "datasets": [
+    {"id": "wordnet_synth", "name": "Synthetic Dialogs (WordNet)", "synthetic_generators": [{"name": "synth_dialogs", "seed": 1337}]}
+  ],
+  "pipelines": {
+    "train": "modules\\chat-core\\pipelines\\train_lm.py",
+    "eval": "modules\\chat-core\\pipelines\\eval_lm.py",
+    "retrieve": "modules\\chat-core\\pipelines\\retrieve.py"
+  },
+  "permissions": {"camera": false, "microphone": false, "filesystem": true},
+  "resources": {"cpu_hint": "low", "gpu_required": false, "vram_mb": 0, "ram_mb": 512},
+  "guardrails": {"max_tokens": 256, "pii_regex": ["(?i)ssn\\b[ -]?\\d{3}-?\\d{2}-?\\d{4}"], "blocked_categories": [], "allowed_file_types": [".json", ".txt"]},
+  "artifacts": {"root": "artifacts\\chat-core", "metrics_dir": "artifacts\\metrics\\chat"},
+  "autotrain": false,
+  "schema_version": "1"
+}

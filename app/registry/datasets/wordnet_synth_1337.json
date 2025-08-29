@@ -1,0 +1,10 @@
+{
+  "id": "wordnet_synth_1337",
+  "name": "WordNet Synthetic Dialogs (1337)",
+  "files": [
+    {
+      "path": "app/artifacts/datasets/wordnet_synth_1337.jsonl",
+      "sha256": "734f6d44cfeeeb28f51d9b8145ca7deff4d57f482548dc724fcee94b9ca3458a"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Synthetic OHLCV generator default config (deterministic)
+seed: 42
+length: 512
+horizon: 8
+volatility: 0.01
+profile: low

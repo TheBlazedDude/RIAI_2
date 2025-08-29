@@ -1,0 +1,5 @@
+{
+  "id": "transformer_encdec",
+  "name": "Transformer (Encoder-Decoder)",
+  "family": "nlp_transformer"
+}

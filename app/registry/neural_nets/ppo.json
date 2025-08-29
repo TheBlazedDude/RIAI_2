@@ -1,0 +1,5 @@
+{
+  "id": "ppo",
+  "name": "PPO (Proximal Policy Optimization)",
+  "family": "rl"
+}

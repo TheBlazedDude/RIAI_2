@@ -1,0 +1,17 @@
+{
+  "model_id": "chat_cnn_generic_1337",
+  "seed": 1337,
+  "model_train_seed": 1337,
+  "nn_id": "cnn_generic",
+  "latency_ms": {
+    "p50": 1.09,
+    "p95": 1.105
+  },
+  "grounding_hit_rate": 0.99,
+  "lm": {
+    "order": 3,
+    "contexts": 2559,
+    "total_transitions": 63969
+  },
+  "timestamp": "2025-08-29T15:16:51.870100+00:00"
+}

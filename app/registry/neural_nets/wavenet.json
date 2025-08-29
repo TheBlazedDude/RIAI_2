@@ -1,0 +1,5 @@
+{
+  "id": "wavenet",
+  "name": "WaveNet",
+  "family": "audio_generation"
+}

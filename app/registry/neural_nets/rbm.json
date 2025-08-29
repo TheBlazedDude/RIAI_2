@@ -1,0 +1,5 @@
+{
+  "id": "rbm",
+  "name": "Restricted Boltzmann Machine (RBM)",
+  "family": "unsupervised"
+}

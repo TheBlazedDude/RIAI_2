@@ -1,0 +1,5 @@
+{
+  "id": "gcn",
+  "name": "GCN (Graph Convolutional Network)",
+  "family": "graph"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "vae",
+  "name": "Variational Autoencoder (VAE)",
+  "family": "generative"
+}

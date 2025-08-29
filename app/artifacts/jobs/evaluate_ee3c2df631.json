@@ -1,0 +1,25 @@
+{
+  "job_id": "evaluate_ee3c2df631",
+  "type": "evaluate",
+  "module_id": "chat-core",
+  "seed": 2025,
+  "created_at": "2025-08-29T14:31:34.292490+02:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T14:31:34.403769+02:00",
+  "result": {
+    "model_id": "chat_model_test_perceptron_mlp",
+    "seed": 2025,
+    "latency_ms": {
+      "p50": 1.031,
+      "p95": 1.097
+    },
+    "grounding_hit_rate": 0.99,
+    "lm": {
+      "order": 3,
+      "contexts": 2559,
+      "total_transitions": 42645
+    },
+    "module_id": "chat-core",
+    "status": "ok"
+  }
+}

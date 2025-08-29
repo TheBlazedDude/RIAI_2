@@ -1,0 +1,27 @@
+{
+  "job_id": "evaluate_79e27fdb16",
+  "type": "evaluate",
+  "module_id": "chat-core",
+  "seed": 1337,
+  "created_at": "2025-08-29T13:47:59.963435+00:00",
+  "status": "finished",
+  "finished_at": "2025-08-29T13:48:00.111178+00:00",
+  "result": {
+    "model_id": "chat_gpt_1337",
+    "seed": 1337,
+    "model_train_seed": 1337,
+    "nn_id": "gpt",
+    "latency_ms": {
+      "p50": 1.092,
+      "p95": 1.113
+    },
+    "grounding_hit_rate": 0.99,
+    "lm": {
+      "order": 4,
+      "contexts": 4100,
+      "total_transitions": 63968
+    },
+    "module_id": "chat-core",
+    "status": "ok"
+  }
+}
