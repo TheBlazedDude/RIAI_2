@@ -1,0 +1,261 @@
+# docs/architectures.yaml — Authoritative v1
+version: 1
+architectures:
+
+  # ---- Core / Tabular / Generic ----
+  - id: perceptron_mlp
+    name: "Perceptron (MLP)"
+    family: "feedforward"
+    aliases: ["MLP","Feedforward","Dense NN"]
+
+  # ---- Vision (CNN & friends) ----
+  - id: cnn_generic
+    name: "CNN (Convolutional Neural Network)"
+    family: "vision"
+    aliases: ["ConvNet"]
+
+  - id: lenet
+    name: "LeNet"
+    family: "vision"
+    aliases: []
+
+  - id: alexnet
+    name: "AlexNet"
+    family: "vision"
+    aliases: []
+
+  - id: vgg
+    name: "VGG"
+    family: "vision"
+    aliases: ["VGG16","VGG19"]
+
+  - id: inception
+    name: "Inception (GoogLeNet)"
+    family: "vision"
+    aliases: ["GoogLeNet","Inception-v1/v2/v3/v4"]
+
+  - id: resnet
+    name: "ResNet"
+    family: "vision"
+    aliases: ["ResNet-18","ResNet-34","ResNet-50","ResNet-101","ResNet-152"]
+
+  - id: densenet
+    name: "DenseNet"
+    family: "vision"
+    aliases: ["DenseNet-121","DenseNet-169","DenseNet-201"]
+
+  - id: mobilenet
+    name: "MobileNet"
+    family: "vision_edge"
+    aliases: ["MobileNetV2","MobileNetV3"]
+
+  - id: efficientnet
+    name: "EfficientNet"
+    family: "vision_edge"
+    aliases: ["EfficientNet-B0","EfficientNet-B1","EfficientNet-Lite"]
+
+  - id: yolo
+    name: "YOLO"
+    family: "vision_detection"
+    aliases: ["YOLOv3","YOLOv4","YOLOv5","YOLOv7","YOLOv8","YOLO-NAS"]
+
+  - id: mask_rcnn
+    name: "Mask R-CNN"
+    family: "vision_segmentation"
+    aliases: []
+
+  - id: vit
+    name: "Vision Transformer (ViT)"
+    family: "vision_transformer"
+    aliases: ["ViT-B/16","ViT-L/16","DeiT"]
+
+  - id: capsules
+    name: "Capsule Network (CapsNet)"
+    family: "vision"
+    aliases: ["CapsNet"]
+
+  - id: siamese
+    name: "Siamese Network"
+    family: "metric_learning"
+    aliases: ["Siamese CNN","Twin Network"]
+
+  # ---- NLP / Text ----
+  - id: transformer_encoder
+    name: "Transformer (Encoder)"
+    family: "nlp_transformer"
+    aliases: ["Encoder-only Transformer","BERT-style"]
+
+  - id: transformer_decoder
+    name: "Transformer (Decoder)"
+    family: "nlp_transformer"
+    aliases: ["Decoder-only Transformer","GPT-style"]
+
+  - id: transformer_encdec
+    name: "Transformer (Encoder-Decoder)"
+    family: "nlp_transformer"
+    aliases: ["Seq2Seq Transformer","T5-style"]
+
+  - id: bert
+    name: "BERT"
+    family: "nlp_transformer"
+    aliases: ["RoBERTa","DistilBERT","ALBERT","MiniLM"]
+
+  - id: gpt
+    name: "GPT"
+    family: "nlp_transformer"
+    aliases: ["GPT-2","GPT-3-class","Decoder-only"]
+
+  - id: t5
+    name: "T5"
+    family: "nlp_transformer"
+    aliases: ["FLAN-T5","ByT5"]
+
+  - id: rnn
+    name: "RNN"
+    family: "sequence_model"
+    aliases: ["Vanilla RNN","Elman RNN"]
+
+  - id: lstm
+    name: "LSTM"
+    family: "sequence_model"
+    aliases: ["BiLSTM"]
+
+  - id: gru
+    name: "GRU"
+    family: "sequence_model"
+    aliases: ["BiGRU"]
+
+  # ---- Audio / Speech ----
+  - id: wavenet
+    name: "WaveNet"
+    family: "audio_generation"
+    aliases: ["Dilated CNN for audio"]
+
+  - id: tacotron
+    name: "Tacotron"
+    family: "tts"
+    aliases: ["Tacotron2","Seq2Seq TTS"]
+
+  - id: conformer_asr
+    name: "Conformer (ASR)"
+    family: "speech_recognition"
+    aliases: ["Conformer-CTC","Conformer-Transducer"]
+
+  - id: diffwave
+    name: "DiffWave"
+    family: "audio_diffusion"
+    aliases: []
+
+  # ---- Graph ----
+  - id: gnn_generic
+    name: "GNN (Message Passing)"
+    family: "graph"
+    aliases: ["MPNN"]
+
+  - id: gcn
+    name: "GCN (Graph Convolutional Network)"
+    family: "graph"
+    aliases: []
+
+  - id: graphsage
+    name: "GraphSAGE"
+    family: "graph"
+    aliases: []
+
+  - id: gat
+    name: "GAT (Graph Attention Network)"
+    family: "graph"
+    aliases: []
+
+  # ---- Generative (Vision/Text/Audio) ----
+  - id: autoencoder
+    name: "Autoencoder"
+    family: "generative"
+    aliases: ["Denoising AE","Sparse AE"]
+
+  - id: vae
+    name: "Variational Autoencoder (VAE)"
+    family: "generative"
+    aliases: []
+
+  - id: gan
+    name: "GAN (Generative Adversarial Network)"
+    family: "generative"
+    aliases: ["DCGAN","WGAN","WGAN-GP","cGAN"]
+
+  - id: stylegan
+    name: "StyleGAN"
+    family: "generative"
+    aliases: ["StyleGAN2","StyleGAN3"]
+
+  - id: diffusion
+    name: "Diffusion Model"
+    family: "generative"
+    aliases: ["DDPM","DDIM","Stable Diffusion (family)"]
+
+  # ---- RL (Agents; Policy/Value) ----
+  - id: dqn
+    name: "DQN (Deep Q-Network)"
+    family: "rl"
+    aliases: ["DQN-Atari"]
+
+  - id: a3c
+    name: "A3C (Asynchronous Advantage Actor-Critic)"
+    family: "rl"
+    aliases: []
+
+  - id: ppo
+    name: "PPO (Proximal Policy Optimization)"
+    family: "rl"
+    aliases: []
+
+  - id: sac
+    name: "SAC (Soft Actor-Critic)"
+    family: "rl"
+    aliases: []
+
+  # ---- Specialized / Classical / Experimental ----
+  - id: som
+    name: "Self-Organizing Map (SOM)"
+    family: "unsupervised"
+    aliases: ["Kohonen Map"]
+
+  - id: hopfield_modern
+    name: "Hopfield Network (modern)"
+    family: "associative_memory"
+    aliases: ["Modern Hopfield","Dense Associative Memory"]
+
+  - id: esn
+    name: "Echo State Network (ESN)"
+    family: "reservoir_computing"
+    aliases: ["Reservoir Computing"]
+
+  - id: neural_ode
+    name: "Neural ODE"
+    family: "differential_equations"
+    aliases: []
+
+  - id: rbm
+    name: "Restricted Boltzmann Machine (RBM)"
+    family: "unsupervised"
+    aliases: []
+
+  - id: dbn
+    name: "Deep Belief Network (DBN)"
+    family: "unsupervised"
+    aliases: ["Stacked RBM"]
+
+  - id: boltzmann
+    name: "Boltzmann Machine"
+    family: "unsupervised"
+    aliases: ["BM"]
+
+  - id: moe
+    name: "Mixture of Experts (MoE)"
+    family: "sparse_mixture"
+    aliases: ["Switch Transformer","GLaM"]
+
+  - id: snn
+    name: "Spiking Neural Network (SNN)"
+    family: "neuromorphic"
+    aliases: []
